@@ -1,2 +1,2 @@
 # GPTPrompts
-GPT Promptt
+GPT Prompt
